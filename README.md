@@ -10,7 +10,7 @@ I have always found JavaScript arrays to have confusing method names.Here are so
 - some & every
 - find & findIndex & indexOf
 
-As I was browsing youtube i came across this video ["The Absolute Best Intro to Monads For Software Engineers"](https://www.youtube.com/watch?v=C2w45qRc3aU&t=685s) and thought that it would be cool to learn the monad pattern by creating an array implementation that has method names that clearly indicate the purpose.
+As I was browsing youtube i came across this video ["The Absolute Best Intro to Monads For Software Engineers"](https://www.youtube.com/watch?v=C2w45qRc3aU&t=685s) and thought that it would be cool to learn the monad pattern by creating an array implementation that has method names **that** clearly indicate the purpose.
 
 ## Description
 
