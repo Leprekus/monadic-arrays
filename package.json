@@ -1,0 +1,14 @@
+{
+  "name": "monadic-arrays",
+  "version": "1.0.0",
+  "description": "Array implementation using the monad pattern. The goal is to make code more readable and make the array's methods clear on what their function is.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leprekus",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
